@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+The MIT License
+
+Copyright 2014 Alejandro Alberto Yescas Benitez.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+-->
+
+
+<nsKeywords:lenguajes
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xmlns:nsKeywords='http://www.w3.org/keywords'
+    xsi:schemaLocation='http://www.w3.org/keywords schema/keywordsSchema.xsd'>
+    <nsKeywords:VisualBasic>
+        <nsKeywords:keyword>AddHandler</nsKeywords:keyword>
+        <nsKeywords:keyword>AddressOf</nsKeywords:keyword>
+        <nsKeywords:keyword>Alias</nsKeywords:keyword>
+        <nsKeywords:keyword>And</nsKeywords:keyword>
+        <nsKeywords:keyword>AndAlso</nsKeywords:keyword>
+        <nsKeywords:keyword>Ansi</nsKeywords:keyword>
+        <nsKeywords:keyword>As</nsKeywords:keyword>
+        <nsKeywords:keyword>Assembly</nsKeywords:keyword>
+        <nsKeywords:keyword>Auto</nsKeywords:keyword>
+        <nsKeywords:keyword>Boolean</nsKeywords:keyword>
+        <nsKeywords:keyword>ByRef</nsKeywords:keyword>
+        <nsKeywords:keyword>ByVal</nsKeywords:keyword>
+        <nsKeywords:keyword>Byte</nsKeywords:keyword>
+        <nsKeywords:keyword>CBool</nsKeywords:keyword>
+        <nsKeywords:keyword>CByte</nsKeywords:keyword>
+        <nsKeywords:keyword>CChar</nsKeywords:keyword>
+        <nsKeywords:keyword>CDate</nsKeywords:keyword>
+        <nsKeywords:keyword>CDbl</nsKeywords:keyword>
+        <nsKeywords:keyword>CDec</nsKeywords:keyword>
+        <nsKeywords:keyword>CInt</nsKeywords:keyword>
+        <nsKeywords:keyword>CLng</nsKeywords:keyword>
+        <nsKeywords:keyword>CObj</nsKeywords:keyword>
+        <nsKeywords:keyword>CShort</nsKeywords:keyword>
+        <nsKeywords:keyword>CSng</nsKeywords:keyword>
+        <nsKeywords:keyword>CStr</nsKeywords:keyword>
+        <nsKeywords:keyword>CType</nsKeywords:keyword>
+        <nsKeywords:keyword>Call</nsKeywords:keyword>
+        <nsKeywords:keyword>Case</nsKeywords:keyword>
+        <nsKeywords:keyword>Catch</nsKeywords:keyword>
+        <nsKeywords:keyword>Char</nsKeywords:keyword>
+        <nsKeywords:keyword>Class</nsKeywords:keyword>
+        <nsKeywords:keyword>Const</nsKeywords:keyword>
+        <nsKeywords:keyword>Date</nsKeywords:keyword>
+        <nsKeywords:keyword>Decimal</nsKeywords:keyword>
+        <nsKeywords:keyword>Declare</nsKeywords:keyword>
+        <nsKeywords:keyword>Default</nsKeywords:keyword>
+        <nsKeywords:keyword>Delegate</nsKeywords:keyword>
+        <nsKeywords:keyword>Dim</nsKeywords:keyword>
+        <nsKeywords:keyword>DirectCast</nsKeywords:keyword>
+        <nsKeywords:keyword>Do</nsKeywords:keyword>
+        <nsKeywords:keyword>Double</nsKeywords:keyword>
+        <nsKeywords:keyword>Each</nsKeywords:keyword>
+        <nsKeywords:keyword>Else</nsKeywords:keyword>
+        <nsKeywords:keyword>ElseIf</nsKeywords:keyword>
+        <nsKeywords:keyword>End</nsKeywords:keyword>
+        <nsKeywords:keyword>Enum</nsKeywords:keyword>
+        <nsKeywords:keyword>Erase</nsKeywords:keyword>
+        <nsKeywords:keyword>Error</nsKeywords:keyword>
+        <nsKeywords:keyword>Event</nsKeywords:keyword>
+        <nsKeywords:keyword>Exit</nsKeywords:keyword>
+        <nsKeywords:keyword>False</nsKeywords:keyword>
+        <nsKeywords:keyword>Finally</nsKeywords:keyword>
+        <nsKeywords:keyword>For</nsKeywords:keyword>
+        <nsKeywords:keyword>Friend</nsKeywords:keyword>
+        <nsKeywords:keyword>Function</nsKeywords:keyword>
+        <nsKeywords:keyword>Get</nsKeywords:keyword>
+        <nsKeywords:keyword>GetType</nsKeywords:keyword>
+        <nsKeywords:keyword>GoSub</nsKeywords:keyword>
+        <nsKeywords:keyword>GoTo</nsKeywords:keyword>
+        <nsKeywords:keyword>Handles</nsKeywords:keyword>
+        <nsKeywords:keyword>If</nsKeywords:keyword>
+        <nsKeywords:keyword>Implements</nsKeywords:keyword>
+        <nsKeywords:keyword>Imports</nsKeywords:keyword>
+        <nsKeywords:keyword>In</nsKeywords:keyword>
+        <nsKeywords:keyword>Inherits</nsKeywords:keyword>
+        <nsKeywords:keyword>Integer</nsKeywords:keyword>
+        <nsKeywords:keyword>Interface</nsKeywords:keyword>
+        <nsKeywords:keyword>Is</nsKeywords:keyword>
+        <nsKeywords:keyword>Let</nsKeywords:keyword>
+        <nsKeywords:keyword>Lib</nsKeywords:keyword>
+        <nsKeywords:keyword>Like</nsKeywords:keyword>
+        <nsKeywords:keyword>Long</nsKeywords:keyword>
+        <nsKeywords:keyword>Loop</nsKeywords:keyword>
+        <nsKeywords:keyword>Me</nsKeywords:keyword>
+        <nsKeywords:keyword>Mod</nsKeywords:keyword>
+        <nsKeywords:keyword>Module</nsKeywords:keyword>
+        <nsKeywords:keyword>MustInherit</nsKeywords:keyword>
+        <nsKeywords:keyword>MustOverride</nsKeywords:keyword>
+        <nsKeywords:keyword>MyBase</nsKeywords:keyword>
+        <nsKeywords:keyword>MyClass</nsKeywords:keyword>
+        <nsKeywords:keyword>Namespace</nsKeywords:keyword>
+        <nsKeywords:keyword>New</nsKeywords:keyword>
+        <nsKeywords:keyword>Next</nsKeywords:keyword>
+        <nsKeywords:keyword>Not</nsKeywords:keyword>
+        <nsKeywords:keyword>NotInheritable</nsKeywords:keyword>
+        <nsKeywords:keyword>NotOverridable</nsKeywords:keyword>
+        <nsKeywords:keyword>Nothing</nsKeywords:keyword>
+        <nsKeywords:keyword>Object</nsKeywords:keyword>
+        <nsKeywords:keyword>On</nsKeywords:keyword>
+        <nsKeywords:keyword>Option</nsKeywords:keyword>
+        <nsKeywords:keyword>Optional</nsKeywords:keyword>
+        <nsKeywords:keyword>Or</nsKeywords:keyword>
+        <nsKeywords:keyword>OrElse</nsKeywords:keyword>
+        <nsKeywords:keyword>Overloads</nsKeywords:keyword>
+        <nsKeywords:keyword>Overridable</nsKeywords:keyword>
+        <nsKeywords:keyword>Overrides</nsKeywords:keyword>
+        <nsKeywords:keyword>ParamArray</nsKeywords:keyword>
+        <nsKeywords:keyword>Preserve</nsKeywords:keyword>
+        <nsKeywords:keyword>Private</nsKeywords:keyword>
+        <nsKeywords:keyword>Property</nsKeywords:keyword>
+        <nsKeywords:keyword>Protected</nsKeywords:keyword>
+        <nsKeywords:keyword>Public</nsKeywords:keyword>
+        <nsKeywords:keyword>REM</nsKeywords:keyword>
+        <nsKeywords:keyword>RaiseEvent</nsKeywords:keyword>
+        <nsKeywords:keyword>ReDim</nsKeywords:keyword>
+        <nsKeywords:keyword>ReadOnly</nsKeywords:keyword>
+        <nsKeywords:keyword>RemoveHandler</nsKeywords:keyword>
+        <nsKeywords:keyword>Resume</nsKeywords:keyword>
+        <nsKeywords:keyword>Return</nsKeywords:keyword>
+        <nsKeywords:keyword>Select</nsKeywords:keyword>
+        <nsKeywords:keyword>Set</nsKeywords:keyword>
+        <nsKeywords:keyword>Shadows</nsKeywords:keyword>
+        <nsKeywords:keyword>Shared</nsKeywords:keyword>
+        <nsKeywords:keyword>Short</nsKeywords:keyword>
+        <nsKeywords:keyword>Single</nsKeywords:keyword>
+        <nsKeywords:keyword>Static</nsKeywords:keyword>
+        <nsKeywords:keyword>Step</nsKeywords:keyword>
+        <nsKeywords:keyword>Stop</nsKeywords:keyword>
+        <nsKeywords:keyword>String</nsKeywords:keyword>
+        <nsKeywords:keyword>Structure</nsKeywords:keyword>
+        <nsKeywords:keyword>Sub</nsKeywords:keyword>
+        <nsKeywords:keyword>SyncLock</nsKeywords:keyword>
+        <nsKeywords:keyword>Then</nsKeywords:keyword>
+        <nsKeywords:keyword>Throw</nsKeywords:keyword>
+        <nsKeywords:keyword>To</nsKeywords:keyword>
+        <nsKeywords:keyword>True</nsKeywords:keyword>
+        <nsKeywords:keyword>Try</nsKeywords:keyword>
+        <nsKeywords:keyword>TypeOf</nsKeywords:keyword>
+        <nsKeywords:keyword>Unicode</nsKeywords:keyword>
+        <nsKeywords:keyword>Until</nsKeywords:keyword>
+        <nsKeywords:keyword>Variant</nsKeywords:keyword>
+        <nsKeywords:keyword>When</nsKeywords:keyword>
+        <nsKeywords:keyword>While</nsKeywords:keyword>
+        <nsKeywords:keyword>With</nsKeywords:keyword>
+        <nsKeywords:keyword>WithEvents</nsKeywords:keyword>
+        <nsKeywords:keyword>WriteOnly</nsKeywords:keyword>
+        <nsKeywords:keyword>Xor</nsKeywords:keyword>
+    </nsKeywords:VisualBasic>
+</nsKeywords:lenguajes>

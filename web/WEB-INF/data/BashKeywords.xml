@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+The MIT License
+
+Copyright 2014 Alejandro Alberto Yescas Benitez.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+-->
+
+
+<nsKeywords:lenguajes
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xmlns:nsKeywords='http://www.w3.org/keywords'
+    xsi:schemaLocation='http://www.w3.org/keywords schema/keywordsSchema.xsd'>
+    <nsKeywords:Bash>
+        <nsKeywords:keyword>apropos</nsKeywords:keyword>
+        <nsKeywords:keyword>awk</nsKeywords:keyword>
+        <nsKeywords:keyword>basename</nsKeywords:keyword>
+        <nsKeywords:keyword>bash</nsKeywords:keyword>
+        <nsKeywords:keyword>bc</nsKeywords:keyword>
+        <nsKeywords:keyword>bg</nsKeywords:keyword>
+        <nsKeywords:keyword>break</nsKeywords:keyword>
+        <nsKeywords:keyword>builtin</nsKeywords:keyword>
+        <nsKeywords:keyword>bzip2</nsKeywords:keyword>
+        <nsKeywords:keyword>cal</nsKeywords:keyword>
+        <nsKeywords:keyword>case</nsKeywords:keyword>
+        <nsKeywords:keyword>cat</nsKeywords:keyword>
+        <nsKeywords:keyword>cd</nsKeywords:keyword>
+        <nsKeywords:keyword>cfdisk</nsKeywords:keyword>
+        <nsKeywords:keyword>chgrp</nsKeywords:keyword>
+        <nsKeywords:keyword>chmod</nsKeywords:keyword>
+        <nsKeywords:keyword>chown</nsKeywords:keyword>
+        <nsKeywords:keyword>chrootcksum</nsKeywords:keyword>
+        <nsKeywords:keyword>clear</nsKeywords:keyword>
+        <nsKeywords:keyword>cmp</nsKeywords:keyword>
+        <nsKeywords:keyword>comm</nsKeywords:keyword>
+        <nsKeywords:keyword>command</nsKeywords:keyword>
+        <nsKeywords:keyword>continue</nsKeywords:keyword>
+        <nsKeywords:keyword>cp</nsKeywords:keyword>
+        <nsKeywords:keyword>cron</nsKeywords:keyword>
+        <nsKeywords:keyword>crontab</nsKeywords:keyword>
+        <nsKeywords:keyword>csplit</nsKeywords:keyword>
+        <nsKeywords:keyword>cut</nsKeywords:keyword>
+        <nsKeywords:keyword>date</nsKeywords:keyword>
+        <nsKeywords:keyword>dc</nsKeywords:keyword>
+        <nsKeywords:keyword>dd</nsKeywords:keyword>
+        <nsKeywords:keyword>ddrescue</nsKeywords:keyword>
+        <nsKeywords:keyword>declare</nsKeywords:keyword>
+        <nsKeywords:keyword>df</nsKeywords:keyword>
+        <nsKeywords:keyword>diff</nsKeywords:keyword>
+        <nsKeywords:keyword>diff3</nsKeywords:keyword>
+        <nsKeywords:keyword>dig</nsKeywords:keyword>
+        <nsKeywords:keyword>dir</nsKeywords:keyword>
+        <nsKeywords:keyword>dircolors</nsKeywords:keyword>
+        <nsKeywords:keyword>dirname</nsKeywords:keyword>
+        <nsKeywords:keyword>dirs</nsKeywords:keyword>
+        <nsKeywords:keyword>do</nsKeywords:keyword>
+        <nsKeywords:keyword>done</nsKeywords:keyword>
+        <nsKeywords:keyword>du</nsKeywords:keyword>
+        <nsKeywords:keyword>echo</nsKeywords:keyword>
+        <nsKeywords:keyword>egrep</nsKeywords:keyword>
+        <nsKeywords:keyword>eject</nsKeywords:keyword>
+        <nsKeywords:keyword>elif</nsKeywords:keyword>
+        <nsKeywords:keyword>else</nsKeywords:keyword>
+        <nsKeywords:keyword>enable</nsKeywords:keyword>
+        <nsKeywords:keyword>env</nsKeywords:keyword>
+        <nsKeywords:keyword>eq</nsKeywords:keyword>
+        <nsKeywords:keyword>ethtool</nsKeywords:keyword>
+        <nsKeywords:keyword>eval</nsKeywords:keyword>
+        <nsKeywords:keyword>exec</nsKeywords:keyword>
+        <nsKeywords:keyword>exit</nsKeywords:keyword>
+        <nsKeywords:keyword>expand</nsKeywords:keyword>
+        <nsKeywords:keyword>export</nsKeywords:keyword>
+        <nsKeywords:keyword>expr</nsKeywords:keyword>
+        <nsKeywords:keyword>false</nsKeywords:keyword>
+        <nsKeywords:keyword>fdformat</nsKeywords:keyword>
+        <nsKeywords:keyword>fdisk</nsKeywords:keyword>
+        <nsKeywords:keyword>fg</nsKeywords:keyword>
+        <nsKeywords:keyword>fgrep</nsKeywords:keyword>
+        <nsKeywords:keyword>fi</nsKeywords:keyword>
+        <nsKeywords:keyword>file</nsKeywords:keyword>
+        <nsKeywords:keyword>find</nsKeywords:keyword>
+        <nsKeywords:keyword>fmt</nsKeywords:keyword>
+        <nsKeywords:keyword>fold</nsKeywords:keyword>
+        <nsKeywords:keyword>for</nsKeywords:keyword>
+        <nsKeywords:keyword>format</nsKeywords:keyword>
+        <nsKeywords:keyword>free</nsKeywords:keyword>
+        <nsKeywords:keyword>fsck</nsKeywords:keyword>
+        <nsKeywords:keyword>ftp</nsKeywords:keyword>
+        <nsKeywords:keyword>function</nsKeywords:keyword>
+        <nsKeywords:keyword>gawk</nsKeywords:keyword>
+        <nsKeywords:keyword>ge</nsKeywords:keyword>
+        <nsKeywords:keyword>getopts</nsKeywords:keyword>
+        <nsKeywords:keyword>grep</nsKeywords:keyword>
+        <nsKeywords:keyword>groups</nsKeywords:keyword>
+        <nsKeywords:keyword>gzip</nsKeywords:keyword>
+        <nsKeywords:keyword>hash</nsKeywords:keyword>
+        <nsKeywords:keyword>head</nsKeywords:keyword>
+        <nsKeywords:keyword>history</nsKeywords:keyword>
+        <nsKeywords:keyword>hostname</nsKeywords:keyword>
+        <nsKeywords:keyword>id</nsKeywords:keyword>
+        <nsKeywords:keyword>if</nsKeywords:keyword>
+        <nsKeywords:keyword>ifconfig</nsKeywords:keyword>
+        <nsKeywords:keyword>import</nsKeywords:keyword>
+        <nsKeywords:keyword>in</nsKeywords:keyword>
+        <nsKeywords:keyword>install</nsKeywords:keyword>
+        <nsKeywords:keyword>join</nsKeywords:keyword>
+        <nsKeywords:keyword>kill</nsKeywords:keyword>
+        <nsKeywords:keyword>lealias</nsKeywords:keyword>
+        <nsKeywords:keyword>less</nsKeywords:keyword>
+        <nsKeywords:keyword>let</nsKeywords:keyword>
+        <nsKeywords:keyword>ln</nsKeywords:keyword>
+        <nsKeywords:keyword>local</nsKeywords:keyword>
+        <nsKeywords:keyword>locate</nsKeywords:keyword>
+        <nsKeywords:keyword>logname</nsKeywords:keyword>
+        <nsKeywords:keyword>logout</nsKeywords:keyword>
+        <nsKeywords:keyword>look</nsKeywords:keyword>
+        <nsKeywords:keyword>lpc</nsKeywords:keyword>
+        <nsKeywords:keyword>lpr</nsKeywords:keyword>
+        <nsKeywords:keyword>lprint</nsKeywords:keyword>
+        <nsKeywords:keyword>lprintd</nsKeywords:keyword>
+        <nsKeywords:keyword>lprintq</nsKeywords:keyword>
+        <nsKeywords:keyword>lprm</nsKeywords:keyword>
+        <nsKeywords:keyword>ls</nsKeywords:keyword>
+        <nsKeywords:keyword>lsof</nsKeywords:keyword>
+        <nsKeywords:keyword>make</nsKeywords:keyword>
+        <nsKeywords:keyword>man</nsKeywords:keyword>
+        <nsKeywords:keyword>mkdir</nsKeywords:keyword>
+        <nsKeywords:keyword>mkfifo</nsKeywords:keyword>
+        <nsKeywords:keyword>mkisofs</nsKeywords:keyword>
+        <nsKeywords:keyword>mknod</nsKeywords:keyword>
+        <nsKeywords:keyword>more</nsKeywords:keyword>
+        <nsKeywords:keyword>mount</nsKeywords:keyword>
+        <nsKeywords:keyword>mtools</nsKeywords:keyword>
+        <nsKeywords:keyword>mv</nsKeywords:keyword>
+        <nsKeywords:keyword>ne</nsKeywords:keyword>
+        <nsKeywords:keyword>netstat</nsKeywords:keyword>
+        <nsKeywords:keyword>nice</nsKeywords:keyword>
+        <nsKeywords:keyword>nl</nsKeywords:keyword>
+        <nsKeywords:keyword>nohup</nsKeywords:keyword>
+        <nsKeywords:keyword>nslookup</nsKeywords:keyword>
+        <nsKeywords:keyword>op</nsKeywords:keyword>
+        <nsKeywords:keyword>open</nsKeywords:keyword>
+        <nsKeywords:keyword>passwd</nsKeywords:keyword>
+        <nsKeywords:keyword>paste</nsKeywords:keyword>
+        <nsKeywords:keyword>pathchk</nsKeywords:keyword>
+        <nsKeywords:keyword>ping</nsKeywords:keyword>
+        <nsKeywords:keyword>popd</nsKeywords:keyword>
+        <nsKeywords:keyword>pr</nsKeywords:keyword>
+        <nsKeywords:keyword>printcap</nsKeywords:keyword>
+        <nsKeywords:keyword>printenv</nsKeywords:keyword>
+        <nsKeywords:keyword>printf</nsKeywords:keyword>
+        <nsKeywords:keyword>ps</nsKeywords:keyword>
+        <nsKeywords:keyword>pushd</nsKeywords:keyword>
+        <nsKeywords:keyword>pwd</nsKeywords:keyword>
+        <nsKeywords:keyword>quota</nsKeywords:keyword>
+        <nsKeywords:keyword>quotacheck</nsKeywords:keyword>
+        <nsKeywords:keyword>quotactl</nsKeywords:keyword>
+        <nsKeywords:keyword>ram</nsKeywords:keyword>
+        <nsKeywords:keyword>rcp</nsKeywords:keyword>
+        <nsKeywords:keyword>read</nsKeywords:keyword>
+        <nsKeywords:keyword>readonly</nsKeywords:keyword>
+        <nsKeywords:keyword>remsync</nsKeywords:keyword>
+        <nsKeywords:keyword>renice</nsKeywords:keyword>
+        <nsKeywords:keyword>return</nsKeywords:keyword>
+        <nsKeywords:keyword>rm</nsKeywords:keyword>
+        <nsKeywords:keyword>rmdir</nsKeywords:keyword>
+        <nsKeywords:keyword>rsync</nsKeywords:keyword>
+        <nsKeywords:keyword>scp</nsKeywords:keyword>
+        <nsKeywords:keyword>screen</nsKeywords:keyword>
+        <nsKeywords:keyword>sdiff</nsKeywords:keyword>
+        <nsKeywords:keyword>sed</nsKeywords:keyword>
+        <nsKeywords:keyword>select</nsKeywords:keyword>
+        <nsKeywords:keyword>seq</nsKeywords:keyword>
+        <nsKeywords:keyword>set</nsKeywords:keyword>
+        <nsKeywords:keyword>sftp</nsKeywords:keyword>
+        <nsKeywords:keyword>shift</nsKeywords:keyword>
+        <nsKeywords:keyword>shopt</nsKeywords:keyword>
+        <nsKeywords:keyword>shutdown</nsKeywords:keyword>
+        <nsKeywords:keyword>sleep</nsKeywords:keyword>
+        <nsKeywords:keyword>sort</nsKeywords:keyword>
+        <nsKeywords:keyword>source</nsKeywords:keyword>
+        <nsKeywords:keyword>split</nsKeywords:keyword>
+        <nsKeywords:keyword>ssh</nsKeywords:keyword>
+        <nsKeywords:keyword>strace</nsKeywords:keyword>
+        <nsKeywords:keyword>su</nsKeywords:keyword>
+        <nsKeywords:keyword>sudo</nsKeywords:keyword>
+        <nsKeywords:keyword>sum</nsKeywords:keyword>
+        <nsKeywords:keyword>symlink</nsKeywords:keyword>
+        <nsKeywords:keyword>sync</nsKeywords:keyword>
+        <nsKeywords:keyword>tail</nsKeywords:keyword>
+        <nsKeywords:keyword>tar</nsKeywords:keyword>
+        <nsKeywords:keyword>tee</nsKeywords:keyword>
+        <nsKeywords:keyword>test</nsKeywords:keyword>
+        <nsKeywords:keyword>then</nsKeywords:keyword>
+        <nsKeywords:keyword>time</nsKeywords:keyword>
+        <nsKeywords:keyword>times</nsKeywords:keyword>
+        <nsKeywords:keyword>top</nsKeywords:keyword>
+        <nsKeywords:keyword>touch</nsKeywords:keyword>
+        <nsKeywords:keyword>tr</nsKeywords:keyword>
+        <nsKeywords:keyword>traceroute</nsKeywords:keyword>
+        <nsKeywords:keyword>trap</nsKeywords:keyword>
+        <nsKeywords:keyword>true</nsKeywords:keyword>
+        <nsKeywords:keyword>tsort</nsKeywords:keyword>
+        <nsKeywords:keyword>tty</nsKeywords:keyword>
+        <nsKeywords:keyword>type</nsKeywords:keyword>
+        <nsKeywords:keyword>ulimit</nsKeywords:keyword>
+        <nsKeywords:keyword>umask</nsKeywords:keyword>
+        <nsKeywords:keyword>umount</nsKeywords:keyword>
+        <nsKeywords:keyword>unalias</nsKeywords:keyword>
+        <nsKeywords:keyword>uname</nsKeywords:keyword>
+        <nsKeywords:keyword>unexpand</nsKeywords:keyword>
+        <nsKeywords:keyword>uniq</nsKeywords:keyword>
+        <nsKeywords:keyword>units</nsKeywords:keyword>
+        <nsKeywords:keyword>unset</nsKeywords:keyword>
+        <nsKeywords:keyword>unshar</nsKeywords:keyword>
+        <nsKeywords:keyword>until</nsKeywords:keyword>
+        <nsKeywords:keyword>useradd</nsKeywords:keyword>
+        <nsKeywords:keyword>usermod</nsKeywords:keyword>
+        <nsKeywords:keyword>users</nsKeywords:keyword>
+        <nsKeywords:keyword>uudecode</nsKeywords:keyword>
+        <nsKeywords:keyword>uuencode</nsKeywords:keyword>
+        <nsKeywords:keyword>v</nsKeywords:keyword>
+        <nsKeywords:keyword>vdir</nsKeywords:keyword>
+        <nsKeywords:keyword>vi</nsKeywords:keyword>
+        <nsKeywords:keyword>watch</nsKeywords:keyword>
+        <nsKeywords:keyword>wc</nsKeywords:keyword>
+        <nsKeywords:keyword>Wget</nsKeywords:keyword>
+        <nsKeywords:keyword>whereis</nsKeywords:keyword>
+        <nsKeywords:keyword>which</nsKeywords:keyword>
+        <nsKeywords:keyword>while</nsKeywords:keyword>
+        <nsKeywords:keyword>who</nsKeywords:keyword>
+        <nsKeywords:keyword>whoami</nsKeywords:keyword>
+        <nsKeywords:keyword>xargs</nsKeywords:keyword>
+        <nsKeywords:keyword>yes</nsKeywords:keyword>
+    </nsKeywords:Bash>
+</nsKeywords:lenguajes>

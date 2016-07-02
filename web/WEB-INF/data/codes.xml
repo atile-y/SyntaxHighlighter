@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+The MIT License
+
+Copyright 2014 Alejandro Alberto Yescas Benitez.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+-->
+
+
+<nsCodes:codigos
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xmlns:nsCodes='http://www.w3.org/codes'
+    xsi:schemaLocation='http://www.w3.org/codes schema/codesSchema.xsd'>
+
+    <nsCodes:codigo id="5124">
+        <nsCodes:idProfesor>4985</nsCodes:idProfesor>
+        <nsCodes:nombre>A + B</nsCodes:nombre>
+        <nsCodes:lenguaje>C</nsCodes:lenguaje>
+        <nsCodes:resaltar>3, 12</nsCodes:resaltar>
+        <nsCodes:linea>#include &lt;stdio.h&gt;</nsCodes:linea>
+        <nsCodes:linea></nsCodes:linea>
+        <nsCodes:linea>int main(int argc, char *argv[]) {</nsCodes:linea>
+        <nsCodes:linea>    int a, b, c;</nsCodes:linea>
+        <nsCodes:linea></nsCodes:linea>
+        <nsCodes:linea>    scanf("%d", &amp;a);</nsCodes:linea>
+        <nsCodes:linea>    scanf("%d", &amp;b);</nsCodes:linea>
+        <nsCodes:linea />
+        <nsCodes:linea>    c = a + b;</nsCodes:linea>
+        <nsCodes:linea>    printf("%d", c);</nsCodes:linea>
+        <nsCodes:linea></nsCodes:linea>
+        <nsCodes:linea>    return 0;</nsCodes:linea>
+        <nsCodes:linea>}</nsCodes:linea>
+        <nsCodes:idComentario>1</nsCodes:idComentario>
+        <nsCodes:idComentario>7643</nsCodes:idComentario>
+    </nsCodes:codigo>
+
+    <nsCodes:codigo id="9122">
+        <nsCodes:idProfesor>4985</nsCodes:idProfesor>
+        <nsCodes:nombre>random Python</nsCodes:nombre>
+        <nsCodes:lenguaje>Python</nsCodes:lenguaje>
+        <nsCodes:resaltar />
+        <nsCodes:linea>from random import randrange</nsCodes:linea>
+        <nsCodes:linea>a = randrange(0, 10)</nsCodes:linea>        
+        <nsCodes:linea>print a</nsCodes:linea>
+    </nsCodes:codigo>
+
+    <nsCodes:codigo id="2517">
+        <nsCodes:idProfesor>4985</nsCodes:idProfesor>
+        <nsCodes:nombre>Simple WebPage</nsCodes:nombre>
+        <nsCodes:lenguaje>HTML</nsCodes:lenguaje>
+        <nsCodes:resaltar>4, 2, 7</nsCodes:resaltar>
+        <nsCodes:linea>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"></nsCodes:linea>
+        <nsCodes:linea>&lt;html lang="es"></nsCodes:linea>        
+        <nsCodes:linea>    &lt;head></nsCodes:linea>
+        <nsCodes:linea>        &lt;title>Simple WebPage&lt;/title></nsCodes:linea>
+        <nsCodes:linea>    &lt;/head></nsCodes:linea>
+        <nsCodes:linea>    &lt;body></nsCodes:linea>
+        <nsCodes:linea>        &lt;h1>Hello World!!&lt;/h1></nsCodes:linea>
+        <nsCodes:linea>    &lt;/body></nsCodes:linea>
+        <nsCodes:linea>&lt;/html></nsCodes:linea>
+        <nsCodes:idComentario>648</nsCodes:idComentario>
+    </nsCodes:codigo>
+
+</nsCodes:codigos>

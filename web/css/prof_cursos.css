@@ -1,0 +1,190 @@
+/*
+The MIT License
+
+Copyright 2014 Alejandro Alberto Yescas Benitez.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+*/
+/* 
+    Created on : 12/06/2014, 11:37:10 AM
+    Author     : Alejandro Alberto Yescas Benitez
+*/
+
+#titulo-curso {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#alumnos-titulo, #codigos-titulo {
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #70AAFF;
+    border-radius: 5px 5px 0px 0px;
+    padding: 10px 10px 10px 30px;
+}
+
+#alumnos-curso, #codigos-curso {
+    border-left: 1px #70AAFF solid;
+    border-right: 1px #70AAFF solid;
+    padding: 10px;
+}
+
+#acciones-alumno {
+    padding: 10px;
+    border: 1px #70AAFF solid;
+    border-top: 0px;
+    border-radius: 0px 0px 5px 5px;
+    margin-bottom: 20px;
+}
+
+#agregar-alumno {
+    float: right;
+    width: 120px;
+    padding: 5px;
+    margin-right: 10px;
+    border-radius: 5px;
+    background-color: #D4E6FF;
+    text-align: center;
+    cursor: pointer;
+}
+
+.nomod-alumno, .mod-alumno {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px #FFFFFF solid;
+}
+
+.mod-alumno {
+    display: none;
+}
+
+.mod-alumno > input, #acciones-alumno > input {
+    font-size: 16px;
+    margin: 0px;
+}
+
+.mod-alumno > label, #acciones-alumno > label {
+    font-size: 11px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.mod-alumno > label.nombre-label, #acciones-alumno > label#nuevo-nombre-label {
+    margin-left: 43px;
+    margin-right: 43px;
+}
+
+.mod-alumno > label.error, #acciones-alumno > label.error {
+    display: inline-block;
+    padding: 5px;
+    position: static;
+    margin: 0px;
+}
+
+.mod-alumno > label.nombre-label.error, #acciones-alumno > label#nuevo-nombre-label.error {
+    margin-left: 17px;
+    margin-right: 17px;
+}
+
+.nombre-codigo {
+    padding: 10px 5px;
+    cursor: pointer;
+}
+
+.codigo-unselected {
+    border-radius: 5px;
+}
+
+.codigo-selected {
+    border-radius: 5px 5px 0px 0px;
+    background-color: #D4E6FF;
+}
+
+.nombre-codigo:hover {
+    background-color: #D4E6FF;
+}
+
+.nombre-alumno, .apPat-alumno, .apMat-alumno {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+}
+
+.borrar-codigo, .borrar-alumno, .cancelar-alumno {
+    margin-right: 40px;
+}
+
+.modificar-codigo, .ver-comentarios, .modificar-alumno, .aceptar-alumno {
+    margin-right: 10px;
+}
+
+.borrar-codigo, .modificar-codigo, .ver-comentarios, .borrar-alumno,
+.modificar-alumno, .aceptar-alumno, .cancelar-alumno {
+    float: right;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.borrar-alumno, .modificar-alumno {
+    display: none;
+    background-color: #FFFFFF;
+}
+
+.borrar-codigo, .modificar-codigo, .ver-comentarios, .aceptar-alumno,
+.cancelar-alumno {
+    background-color: #D4E6FF;
+}
+
+.container-codigo {
+    display: none;
+    border: 1px #D4E6FF solid;
+    border-radius: 0px 0px 5px 5px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.container-codigo > label {
+    display: none;
+}
+
+.comentarios-codigo {
+    display: none;
+    margin-bottom: 10px;
+}
+
+#codigos-acciones {
+    border: 1px #70AAFF solid;
+    border-top: 0px;
+    border-radius: 0px 0px 5px 5px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+#codigos-acciones > a {
+    float: right;
+    width: 60px;
+    padding: 5px;
+    margin-right: 10px;
+    border-radius: 5px;
+    background-color: #D4E6FF;
+    text-align: center;
+}

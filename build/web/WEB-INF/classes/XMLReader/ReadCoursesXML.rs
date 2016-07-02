@@ -1,0 +1,2 @@
+XMLReader.ReadCoursesXML
+XMLReader.OrdenaCurso

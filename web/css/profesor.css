@@ -1,0 +1,137 @@
+/*
+The MIT License
+
+Copyright 2014 Alejandro Alberto Yescas Benitez.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+*/
+/* 
+    Created on : 9/06/2014, 06:17:00 PM
+    Author     : Alejandro Alberto Yescas Benitez
+*/
+
+#menu {
+    width: 250px;
+    position: fixed;
+    z-index: 999;
+}
+
+#menu-cursos {
+    background-color: #2880FF;
+    padding: 10px;
+    border-radius: 15px 15px 0px 0px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#no-cursos {
+    background-color: #FFFFFF;
+    padding: 30px 10px 30px 10px;
+    text-align: center;
+}
+
+#cursos {
+    background-color: #FFFFFF;
+    padding: 10px;
+}
+
+#cursos > p {
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#cursos > p:hover {
+    background-color: #B8D4FF;
+}
+
+#cursos > p.curso-selected {
+    background-color: #70AAFF;
+}
+
+#agregar-curso {
+    display: none;
+    background-color: #FFFFFF;
+    padding: 10px;
+    border-radius: 0px 0px 15px 15px;
+    border-top: 2px #E6E6E6 solid;
+    text-align: center;
+}
+
+#input-curso {
+    display: block;
+    font-size: 16px;
+}
+
+#agregar-curso > label.error {
+    position: static;
+    padding: 5px;
+    height: 20px;
+    line-height: 20px;
+}
+
+#aceptar-curso, #cancelar-curso {
+    background-color: #70AAFF;
+    display: inline-block;
+    width: 65px;
+    height: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 20px;
+    cursor: pointer;
+}
+
+#aceptar-curso:hover, #cancelar-curso:hover {
+    background-color: #2880FF;
+}
+
+#acciones {
+    background-color: #FFFFFF;
+    height: 30px;
+    padding: 10px;
+    border-radius: 0px 0px 15px 15px;
+    border-top: 2px #E6E6E6 solid;
+    text-align: right;
+}
+
+#acciones > li {
+    background-color: #70AAFF;
+    display: inline-block;
+    width: 50px;
+    height: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 20px;
+    cursor: pointer;
+}
+
+#acciones > li:hover {
+    background-color: #2880FF;
+}
+
+#content {
+    background-color: #FFFFFF;
+    width: 660px;
+    min-height: 500px;
+    margin-left: 260px;
+    padding: 20px;
+    border-radius: 15px;
+}

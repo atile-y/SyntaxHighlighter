@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+The MIT License
+
+Copyright 2014 Alejandro Alberto Yescas Benitez.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+-->
+
+
+<nsKeywords:lenguajes
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xmlns:nsKeywords='http://www.w3.org/keywords'
+    xsi:schemaLocation='http://www.w3.org/keywords schema/keywordsSchema.xsd'>
+    <nsKeywords:Java>
+        <nsKeywords:keyword>abstract</nsKeywords:keyword>
+        <nsKeywords:keyword>assert</nsKeywords:keyword>
+        <nsKeywords:keyword>boolean</nsKeywords:keyword>
+        <nsKeywords:keyword>break</nsKeywords:keyword>
+        <nsKeywords:keyword>byte</nsKeywords:keyword>
+        <nsKeywords:keyword>case</nsKeywords:keyword>
+        <nsKeywords:keyword>catch</nsKeywords:keyword>
+        <nsKeywords:keyword>char</nsKeywords:keyword>
+        <nsKeywords:keyword>class</nsKeywords:keyword>
+        <nsKeywords:keyword>const</nsKeywords:keyword>
+        <nsKeywords:keyword>continue</nsKeywords:keyword>
+        <nsKeywords:keyword>default</nsKeywords:keyword>
+        <nsKeywords:keyword>do</nsKeywords:keyword>
+        <nsKeywords:keyword>double</nsKeywords:keyword>
+        <nsKeywords:keyword>else</nsKeywords:keyword>
+        <nsKeywords:keyword>enum</nsKeywords:keyword>
+        <nsKeywords:keyword>extends</nsKeywords:keyword>
+        <nsKeywords:keyword>false</nsKeywords:keyword>
+        <nsKeywords:keyword>final</nsKeywords:keyword>
+        <nsKeywords:keyword>finally</nsKeywords:keyword>
+        <nsKeywords:keyword>float</nsKeywords:keyword>
+        <nsKeywords:keyword>for</nsKeywords:keyword>
+        <nsKeywords:keyword>goto</nsKeywords:keyword>
+        <nsKeywords:keyword>if</nsKeywords:keyword>
+        <nsKeywords:keyword>implements</nsKeywords:keyword>
+        <nsKeywords:keyword>import</nsKeywords:keyword>
+        <nsKeywords:keyword>instanceof</nsKeywords:keyword>
+        <nsKeywords:keyword>int</nsKeywords:keyword>
+        <nsKeywords:keyword>interface</nsKeywords:keyword>
+        <nsKeywords:keyword>long</nsKeywords:keyword>
+        <nsKeywords:keyword>native</nsKeywords:keyword>
+        <nsKeywords:keyword>new</nsKeywords:keyword>
+        <nsKeywords:keyword>null</nsKeywords:keyword>
+        <nsKeywords:keyword>package</nsKeywords:keyword>
+        <nsKeywords:keyword>private</nsKeywords:keyword>
+        <nsKeywords:keyword>protected</nsKeywords:keyword>
+        <nsKeywords:keyword>public</nsKeywords:keyword>
+        <nsKeywords:keyword>return</nsKeywords:keyword>
+        <nsKeywords:keyword>short</nsKeywords:keyword>
+        <nsKeywords:keyword>static</nsKeywords:keyword>
+        <nsKeywords:keyword>strictfp</nsKeywords:keyword>
+        <nsKeywords:keyword>super</nsKeywords:keyword>
+        <nsKeywords:keyword>switch</nsKeywords:keyword>
+        <nsKeywords:keyword>synchronized</nsKeywords:keyword>
+        <nsKeywords:keyword>this</nsKeywords:keyword>
+        <nsKeywords:keyword>throw</nsKeywords:keyword>
+        <nsKeywords:keyword>throws</nsKeywords:keyword>
+        <nsKeywords:keyword>true</nsKeywords:keyword>
+        <nsKeywords:keyword>transient</nsKeywords:keyword>
+        <nsKeywords:keyword>try</nsKeywords:keyword>
+        <nsKeywords:keyword>void</nsKeywords:keyword>
+        <nsKeywords:keyword>volatile</nsKeywords:keyword>
+        <nsKeywords:keyword>while</nsKeywords:keyword>
+    </nsKeywords:Java>
+</nsKeywords:lenguajes>

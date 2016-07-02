@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+The MIT License
+
+Copyright 2014 Alejandro Alberto Yescas Benitez.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+-->
+
+
+<nsKeywords:lenguajes
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xmlns:nsKeywords='http://www.w3.org/keywords'
+    xsi:schemaLocation='http://www.w3.org/keywords schema/keywordsSchema.xsd'>
+    <nsKeywords:CSS>
+        <nsKeywords:keyword>ascent</nsKeywords:keyword>
+        <nsKeywords:keyword>azimuth</nsKeywords:keyword>
+        <nsKeywords:keyword>background</nsKeywords:keyword>
+        <nsKeywords:keyword>background-attachment</nsKeywords:keyword>
+        <nsKeywords:keyword>background-color</nsKeywords:keyword>
+        <nsKeywords:keyword>background-image</nsKeywords:keyword>
+        <nsKeywords:keyword>background-position</nsKeywords:keyword>
+        <nsKeywords:keyword>background-repeat</nsKeywords:keyword>
+        <nsKeywords:keyword>baseline</nsKeywords:keyword>
+        <nsKeywords:keyword>bbox</nsKeywords:keyword>
+        <nsKeywords:keyword>border</nsKeywords:keyword>
+        <nsKeywords:keyword>border-bottom</nsKeywords:keyword>
+        <nsKeywords:keyword>border-bottom-color</nsKeywords:keyword>
+        <nsKeywords:keyword>border-bottom-style</nsKeywords:keyword>
+        <nsKeywords:keyword>border-bottom-width</nsKeywords:keyword>
+        <nsKeywords:keyword>border-collapse</nsKeywords:keyword>
+        <nsKeywords:keyword>border-color</nsKeywords:keyword>
+        <nsKeywords:keyword>border-left</nsKeywords:keyword>
+        <nsKeywords:keyword>border-left-color</nsKeywords:keyword>
+        <nsKeywords:keyword>border-left-style</nsKeywords:keyword>
+        <nsKeywords:keyword>border-left-width</nsKeywords:keyword>
+        <nsKeywords:keyword>border-right</nsKeywords:keyword>
+        <nsKeywords:keyword>border-right-color</nsKeywords:keyword>
+        <nsKeywords:keyword>border-right-style</nsKeywords:keyword>
+        <nsKeywords:keyword>border-right-width</nsKeywords:keyword>
+        <nsKeywords:keyword>border-spacing</nsKeywords:keyword>
+        <nsKeywords:keyword>border-style</nsKeywords:keyword>
+        <nsKeywords:keyword>border-top</nsKeywords:keyword>
+        <nsKeywords:keyword>border-top-color</nsKeywords:keyword>
+        <nsKeywords:keyword>border-top-style</nsKeywords:keyword>
+        <nsKeywords:keyword>border-top-width</nsKeywords:keyword>
+        <nsKeywords:keyword>border-width</nsKeywords:keyword>
+        <nsKeywords:keyword>bottom</nsKeywords:keyword>
+        <nsKeywords:keyword>cap-height</nsKeywords:keyword>
+        <nsKeywords:keyword>caption-side</nsKeywords:keyword>
+        <nsKeywords:keyword>centerline</nsKeywords:keyword>
+        <nsKeywords:keyword>clear</nsKeywords:keyword>
+        <nsKeywords:keyword>clip</nsKeywords:keyword>
+        <nsKeywords:keyword>color</nsKeywords:keyword>
+        <nsKeywords:keyword>content</nsKeywords:keyword>
+        <nsKeywords:keyword>counter-increment</nsKeywords:keyword>
+        <nsKeywords:keyword>counter-reset</nsKeywords:keyword>
+        <nsKeywords:keyword>cue</nsKeywords:keyword>
+        <nsKeywords:keyword>cue-after</nsKeywords:keyword>
+        <nsKeywords:keyword>cue-before</nsKeywords:keyword>
+        <nsKeywords:keyword>cursor</nsKeywords:keyword>
+        <nsKeywords:keyword>definition-src</nsKeywords:keyword>
+        <nsKeywords:keyword>descent</nsKeywords:keyword>
+        <nsKeywords:keyword>direction</nsKeywords:keyword>
+        <nsKeywords:keyword>display</nsKeywords:keyword>
+        <nsKeywords:keyword>elevation</nsKeywords:keyword>
+        <nsKeywords:keyword>empty-cells</nsKeywords:keyword>
+        <nsKeywords:keyword>float</nsKeywords:keyword>
+        <nsKeywords:keyword>font</nsKeywords:keyword>
+        <nsKeywords:keyword>font-family</nsKeywords:keyword>
+        <nsKeywords:keyword>font-size</nsKeywords:keyword>
+        <nsKeywords:keyword>font-size-adjust</nsKeywords:keyword>
+        <nsKeywords:keyword>font-stretch</nsKeywords:keyword>
+        <nsKeywords:keyword>font-style</nsKeywords:keyword>
+        <nsKeywords:keyword>font-variant</nsKeywords:keyword>
+        <nsKeywords:keyword>font-weight</nsKeywords:keyword>
+        <nsKeywords:keyword>height</nsKeywords:keyword>
+        <nsKeywords:keyword>left</nsKeywords:keyword>
+        <nsKeywords:keyword>letter-spacing</nsKeywords:keyword>
+        <nsKeywords:keyword>line-height</nsKeywords:keyword>
+        <nsKeywords:keyword>list-style</nsKeywords:keyword>
+        <nsKeywords:keyword>list-style-image</nsKeywords:keyword>
+        <nsKeywords:keyword>list-style-position</nsKeywords:keyword>
+        <nsKeywords:keyword>list-style-type</nsKeywords:keyword>
+        <nsKeywords:keyword>margin</nsKeywords:keyword>
+        <nsKeywords:keyword>margin-bottom</nsKeywords:keyword>
+        <nsKeywords:keyword>margin-left</nsKeywords:keyword>
+        <nsKeywords:keyword>margin-right</nsKeywords:keyword>
+        <nsKeywords:keyword>margin-top</nsKeywords:keyword>
+        <nsKeywords:keyword>marker-offset</nsKeywords:keyword>
+        <nsKeywords:keyword>marks</nsKeywords:keyword>
+        <nsKeywords:keyword>mathline</nsKeywords:keyword>
+        <nsKeywords:keyword>max-height</nsKeywords:keyword>
+        <nsKeywords:keyword>max-width</nsKeywords:keyword>
+        <nsKeywords:keyword>min-height</nsKeywords:keyword>
+        <nsKeywords:keyword>min-width</nsKeywords:keyword>
+        <nsKeywords:keyword>orphans</nsKeywords:keyword>
+        <nsKeywords:keyword>outline</nsKeywords:keyword>
+        <nsKeywords:keyword>outline-color</nsKeywords:keyword>
+        <nsKeywords:keyword>outline-style</nsKeywords:keyword>
+        <nsKeywords:keyword>outline-width</nsKeywords:keyword>
+        <nsKeywords:keyword>overflow</nsKeywords:keyword>
+        <nsKeywords:keyword>padding</nsKeywords:keyword>
+        <nsKeywords:keyword>padding-bottom</nsKeywords:keyword>
+        <nsKeywords:keyword>padding-left</nsKeywords:keyword>
+        <nsKeywords:keyword>padding-right</nsKeywords:keyword>
+        <nsKeywords:keyword>padding-top</nsKeywords:keyword>
+        <nsKeywords:keyword>page</nsKeywords:keyword>
+        <nsKeywords:keyword>page-break-after</nsKeywords:keyword>
+        <nsKeywords:keyword>page-break-before</nsKeywords:keyword>
+        <nsKeywords:keyword>page-break-inside</nsKeywords:keyword>
+        <nsKeywords:keyword>pause</nsKeywords:keyword>
+        <nsKeywords:keyword>pause-after</nsKeywords:keyword>
+        <nsKeywords:keyword>pause-before</nsKeywords:keyword>
+        <nsKeywords:keyword>pitch</nsKeywords:keyword>
+        <nsKeywords:keyword>pitch-range</nsKeywords:keyword>
+        <nsKeywords:keyword>play-during</nsKeywords:keyword>
+        <nsKeywords:keyword>position</nsKeywords:keyword>
+        <nsKeywords:keyword>quotes</nsKeywords:keyword>
+        <nsKeywords:keyword>richness</nsKeywords:keyword>
+        <nsKeywords:keyword>right</nsKeywords:keyword>
+        <nsKeywords:keyword>size</nsKeywords:keyword>
+        <nsKeywords:keyword>slope</nsKeywords:keyword>
+        <nsKeywords:keyword>speak</nsKeywords:keyword>
+        <nsKeywords:keyword>speak-header</nsKeywords:keyword>
+        <nsKeywords:keyword>speak-numeral</nsKeywords:keyword>
+        <nsKeywords:keyword>speak-punctuation</nsKeywords:keyword>
+        <nsKeywords:keyword>speech-rate</nsKeywords:keyword>
+        <nsKeywords:keyword>src</nsKeywords:keyword>
+        <nsKeywords:keyword>stemh</nsKeywords:keyword>
+        <nsKeywords:keyword>stemv</nsKeywords:keyword>
+        <nsKeywords:keyword>stress</nsKeywords:keyword>
+        <nsKeywords:keyword>table-layout</nsKeywords:keyword>
+        <nsKeywords:keyword>text-align</nsKeywords:keyword>
+        <nsKeywords:keyword>text-decoration</nsKeywords:keyword>
+        <nsKeywords:keyword>text-indent</nsKeywords:keyword>
+        <nsKeywords:keyword>text-shadow</nsKeywords:keyword>
+        <nsKeywords:keyword>text-transform</nsKeywords:keyword>
+        <nsKeywords:keyword>top</nsKeywords:keyword>
+        <nsKeywords:keyword>unicode-bidi</nsKeywords:keyword>
+        <nsKeywords:keyword>unicode-range</nsKeywords:keyword>
+        <nsKeywords:keyword>units-per-em</nsKeywords:keyword>
+        <nsKeywords:keyword>vertical-align</nsKeywords:keyword>
+        <nsKeywords:keyword>visibility</nsKeywords:keyword>
+        <nsKeywords:keyword>voice-family</nsKeywords:keyword>
+        <nsKeywords:keyword>volume</nsKeywords:keyword>
+        <nsKeywords:keyword>white-space</nsKeywords:keyword>
+        <nsKeywords:keyword>widows</nsKeywords:keyword>
+        <nsKeywords:keyword>width</nsKeywords:keyword>
+        <nsKeywords:keyword>widths</nsKeywords:keyword>
+        <nsKeywords:keyword>word-spacing</nsKeywords:keyword>
+        <nsKeywords:keyword>x-height</nsKeywords:keyword>
+        <nsKeywords:keyword>z-index</nsKeywords:keyword>
+    </nsKeywords:CSS>
+</nsKeywords:lenguajes>

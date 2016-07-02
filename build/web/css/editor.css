@@ -1,0 +1,168 @@
+/*
+The MIT License
+
+Copyright 2014 Alejandro Alberto Yescas Benitez.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+*/
+/* 
+    Created on : 15/06/2014, 07:10:51 AM
+    Author     : Alejandro Alberto Yescas Benitez
+*/
+
+#titulo-codigo {
+    width: 778px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px #B8B8B8 solid;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    text-align: center;
+    position: relative;
+}
+
+#titulo-codigo > p {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#titulo-codigo > input {
+    font-size: 18px;
+    padding: 5px;
+    margin: 0px;
+}
+
+#lenguaje-codigo {
+    width: 278px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    padding: 10px;
+    border: 1px #B8B8B8 solid;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+#lenguaje-codigo > p {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#lenguaje-codigo > select {
+    font-size: 18px;
+    padding: 5px;
+    margin: 0px;
+}
+
+#code-codigo {
+    width: 938px;
+    padding: 10px;
+    margin-bottom: 30px;
+    border: 1px #B8B8B8 solid;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    text-align: center;
+    position: relative;
+}
+
+#code-codigo > textarea {
+    resize: vertical;
+    font-size: 18px;
+    width: 908px;
+}
+
+#sugerencias {
+    display: none;
+    position: absolute;
+    padding: 5px;
+    border-radius: 0px 5px 5px 5px;
+    background-color: #D4E6FF;
+}
+
+#sugerencias > p {
+    padding: 5px;
+    border-radius: 5px;
+    text-align: left;
+    cursor: pointer;
+}
+
+#sugerencias > p.hover {
+    background-color: #70AAFF;
+}
+
+#resaltar-codigo {
+    width: 378px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    padding: 10px;
+    border: 1px #B8B8B8 solid;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+#resaltar-codigo > p {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#resaltar-codigo > input {
+    font-size: 18px;
+    padding: 5px;
+    margin: 0px;
+}
+
+#acciones-codigo {
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#guardar, #cancelar {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px #B8B8B8 solid;
+    background-color: #D4E6FF;
+    float: right;
+    margin-right: 30px;
+    font-size: 24px;
+}
+
+#guardar:hover, #cancelar:hover {
+    background-color: #70AAFF;
+}
+
+#titulo-codigo > label.error {
+    right: -95px;
+    top: 10px;
+}
+
+#code-codigo > label.error {
+    bottom: 0px;
+    right: 0px;
+}

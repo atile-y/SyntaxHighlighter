@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+The MIT License
+
+Copyright 2014 Alejandro Alberto Yescas Benitez.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+-->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns="http://www.w3.org/keywords"
+           targetNamespace="http://www.w3.org/keywords"
+           elementFormDefault="qualified"
+           xmlns:codes="http://www.w3.org/codes">
+
+<xs:complexType name="langType">
+    <xs:sequence>
+        <xs:element name="keyword" maxOccurs="unbounded" type="xs:string"/>
+    </xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="langsType">
+    <xs:choice>
+        <xs:element name="Bash" type="langType"/>
+        <xs:element name="CSharp" type="langType"/>
+        <xs:element name="C" type="langType"/>
+        <xs:element name="Cpp" type="langType"/>
+        <xs:element name="CSS" type="langType"/>
+        <xs:element name="JavaScript" type="langType"/>
+        <xs:element name="Java" type="langType"/>
+        <xs:element name="PHP" type="langType"/>
+        <xs:element name="Python" type="langType"/>
+        <xs:element name="SQL" type="langType"/>
+        <xs:element name="VisualBasic" type="langType"/>
+        <xs:element name="XML" type="langType"/>
+        <xs:element name="XHTML" type="langType"/>
+        <xs:element name="HTML" type="langType"/>
+    </xs:choice>
+</xs:complexType>
+
+<xs:element name="lenguajes" type="langsType"/>
+
+</xs:schema>

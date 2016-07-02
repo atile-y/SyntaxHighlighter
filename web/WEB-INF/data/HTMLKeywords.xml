@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+The MIT License
+
+Copyright 2014 Alejandro Alberto Yescas Benitez.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+-->
+
+
+<nsKeywords:lenguajes
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xmlns:nsKeywords='http://www.w3.org/keywords'
+    xsi:schemaLocation='http://www.w3.org/keywords schema/keywordsSchema.xsd'>
+    <nsKeywords:HTML>
+        <nsKeywords:keyword>a</nsKeywords:keyword>
+        <nsKeywords:keyword>abbr</nsKeywords:keyword>
+        <nsKeywords:keyword>acronym</nsKeywords:keyword>
+        <nsKeywords:keyword>address</nsKeywords:keyword>
+        <nsKeywords:keyword>applet</nsKeywords:keyword>
+        <nsKeywords:keyword>area</nsKeywords:keyword>
+        <nsKeywords:keyword>article</nsKeywords:keyword>
+        <nsKeywords:keyword>aside</nsKeywords:keyword>
+        <nsKeywords:keyword>audio</nsKeywords:keyword>
+        <nsKeywords:keyword>b</nsKeywords:keyword>
+        <nsKeywords:keyword>base</nsKeywords:keyword>
+        <nsKeywords:keyword>basefont</nsKeywords:keyword>
+        <nsKeywords:keyword>bdi</nsKeywords:keyword>
+        <nsKeywords:keyword>bdo</nsKeywords:keyword>
+        <nsKeywords:keyword>big</nsKeywords:keyword>
+        <nsKeywords:keyword>blockquote</nsKeywords:keyword>
+        <nsKeywords:keyword>body</nsKeywords:keyword>
+        <nsKeywords:keyword>br</nsKeywords:keyword>
+        <nsKeywords:keyword>button</nsKeywords:keyword>
+        <nsKeywords:keyword>canvas</nsKeywords:keyword>
+        <nsKeywords:keyword>caption</nsKeywords:keyword>
+        <nsKeywords:keyword>center</nsKeywords:keyword>
+        <nsKeywords:keyword>cite</nsKeywords:keyword>
+        <nsKeywords:keyword>code</nsKeywords:keyword>
+        <nsKeywords:keyword>col</nsKeywords:keyword>
+        <nsKeywords:keyword>colgroup</nsKeywords:keyword>
+        <nsKeywords:keyword>datalist</nsKeywords:keyword>
+        <nsKeywords:keyword>dd</nsKeywords:keyword>
+        <nsKeywords:keyword>del</nsKeywords:keyword>
+        <nsKeywords:keyword>details</nsKeywords:keyword>
+        <nsKeywords:keyword>dfn</nsKeywords:keyword>
+        <nsKeywords:keyword>dialog</nsKeywords:keyword>
+        <nsKeywords:keyword>dir</nsKeywords:keyword>
+        <nsKeywords:keyword>div</nsKeywords:keyword>
+        <nsKeywords:keyword>dl</nsKeywords:keyword>
+        <nsKeywords:keyword>dt</nsKeywords:keyword>
+        <nsKeywords:keyword>em</nsKeywords:keyword>
+        <nsKeywords:keyword>embed</nsKeywords:keyword>
+        <nsKeywords:keyword>fieldset</nsKeywords:keyword>
+        <nsKeywords:keyword>figcaption</nsKeywords:keyword>
+        <nsKeywords:keyword>figure</nsKeywords:keyword>
+        <nsKeywords:keyword>font</nsKeywords:keyword>
+        <nsKeywords:keyword>footer</nsKeywords:keyword>
+        <nsKeywords:keyword>form</nsKeywords:keyword>
+        <nsKeywords:keyword>frame</nsKeywords:keyword>
+        <nsKeywords:keyword>frameset</nsKeywords:keyword>
+        <nsKeywords:keyword>h1</nsKeywords:keyword>
+        <nsKeywords:keyword>h2</nsKeywords:keyword>
+        <nsKeywords:keyword>h3</nsKeywords:keyword>
+        <nsKeywords:keyword>h4</nsKeywords:keyword>
+        <nsKeywords:keyword>h5</nsKeywords:keyword>
+        <nsKeywords:keyword>h6</nsKeywords:keyword>
+        <nsKeywords:keyword>head</nsKeywords:keyword>
+        <nsKeywords:keyword>header</nsKeywords:keyword>
+        <nsKeywords:keyword>hr</nsKeywords:keyword>
+        <nsKeywords:keyword>html</nsKeywords:keyword>
+        <nsKeywords:keyword>i</nsKeywords:keyword>
+        <nsKeywords:keyword>iframe</nsKeywords:keyword>
+        <nsKeywords:keyword>img</nsKeywords:keyword>
+        <nsKeywords:keyword>input</nsKeywords:keyword>
+        <nsKeywords:keyword>ins</nsKeywords:keyword>
+        <nsKeywords:keyword>kbd</nsKeywords:keyword>
+        <nsKeywords:keyword>keygen</nsKeywords:keyword>
+        <nsKeywords:keyword>label</nsKeywords:keyword>
+        <nsKeywords:keyword>legend</nsKeywords:keyword>
+        <nsKeywords:keyword>li</nsKeywords:keyword>
+        <nsKeywords:keyword>link</nsKeywords:keyword>
+        <nsKeywords:keyword>main</nsKeywords:keyword>
+        <nsKeywords:keyword>map</nsKeywords:keyword>
+        <nsKeywords:keyword>mark</nsKeywords:keyword>
+        <nsKeywords:keyword>menu</nsKeywords:keyword>
+        <nsKeywords:keyword>menuitem</nsKeywords:keyword>
+        <nsKeywords:keyword>meta</nsKeywords:keyword>
+        <nsKeywords:keyword>meter</nsKeywords:keyword>
+        <nsKeywords:keyword>nav</nsKeywords:keyword>
+        <nsKeywords:keyword>noframes</nsKeywords:keyword>
+        <nsKeywords:keyword>noscript</nsKeywords:keyword>
+        <nsKeywords:keyword>object</nsKeywords:keyword>
+        <nsKeywords:keyword>ol</nsKeywords:keyword>
+        <nsKeywords:keyword>optgroup</nsKeywords:keyword>
+        <nsKeywords:keyword>option</nsKeywords:keyword>
+        <nsKeywords:keyword>output</nsKeywords:keyword>
+        <nsKeywords:keyword>p</nsKeywords:keyword>
+        <nsKeywords:keyword>param</nsKeywords:keyword>
+        <nsKeywords:keyword>pre</nsKeywords:keyword>
+        <nsKeywords:keyword>progress</nsKeywords:keyword>
+        <nsKeywords:keyword>q</nsKeywords:keyword>
+        <nsKeywords:keyword>rp</nsKeywords:keyword>
+        <nsKeywords:keyword>rt</nsKeywords:keyword>
+        <nsKeywords:keyword>ruby</nsKeywords:keyword>
+        <nsKeywords:keyword>s</nsKeywords:keyword>
+        <nsKeywords:keyword>samp</nsKeywords:keyword>
+        <nsKeywords:keyword>script</nsKeywords:keyword>
+        <nsKeywords:keyword>section</nsKeywords:keyword>
+        <nsKeywords:keyword>select</nsKeywords:keyword>
+        <nsKeywords:keyword>small</nsKeywords:keyword>
+        <nsKeywords:keyword>source</nsKeywords:keyword>
+        <nsKeywords:keyword>span</nsKeywords:keyword>
+        <nsKeywords:keyword>strike</nsKeywords:keyword>
+        <nsKeywords:keyword>strong</nsKeywords:keyword>
+        <nsKeywords:keyword>style</nsKeywords:keyword>
+        <nsKeywords:keyword>sub</nsKeywords:keyword>
+        <nsKeywords:keyword>summary</nsKeywords:keyword>
+        <nsKeywords:keyword>sup</nsKeywords:keyword>
+        <nsKeywords:keyword>table</nsKeywords:keyword>
+        <nsKeywords:keyword>tbody</nsKeywords:keyword>
+        <nsKeywords:keyword>td</nsKeywords:keyword>
+        <nsKeywords:keyword>textarea</nsKeywords:keyword>
+        <nsKeywords:keyword>tfoot</nsKeywords:keyword>
+        <nsKeywords:keyword>th</nsKeywords:keyword>
+        <nsKeywords:keyword>thead</nsKeywords:keyword>
+        <nsKeywords:keyword>time</nsKeywords:keyword>
+        <nsKeywords:keyword>title</nsKeywords:keyword>
+        <nsKeywords:keyword>tr</nsKeywords:keyword>
+        <nsKeywords:keyword>track</nsKeywords:keyword>
+        <nsKeywords:keyword>tt</nsKeywords:keyword>
+        <nsKeywords:keyword>u</nsKeywords:keyword>
+        <nsKeywords:keyword>ul</nsKeywords:keyword>
+        <nsKeywords:keyword>var</nsKeywords:keyword>
+        <nsKeywords:keyword>video</nsKeywords:keyword>
+        <nsKeywords:keyword>wbr</nsKeywords:keyword>
+    </nsKeywords:HTML>
+
+</nsKeywords:lenguajes>

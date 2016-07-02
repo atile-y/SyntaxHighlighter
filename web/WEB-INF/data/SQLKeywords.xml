@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+The MIT License
+
+Copyright 2014 Alejandro Alberto Yescas Benitez.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+-->
+
+
+<nsKeywords:lenguajes
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xmlns:nsKeywords='http://www.w3.org/keywords'
+    xsi:schemaLocation='http://www.w3.org/keywords schema/keywordsSchema.xsd'>
+    <nsKeywords:SQL>
+        <nsKeywords:keyword>abs</nsKeywords:keyword>
+        <nsKeywords:keyword>absolute</nsKeywords:keyword>
+        <nsKeywords:keyword>action</nsKeywords:keyword>
+        <nsKeywords:keyword>add</nsKeywords:keyword>
+        <nsKeywords:keyword>after</nsKeywords:keyword>
+        <nsKeywords:keyword>all</nsKeywords:keyword>
+        <nsKeywords:keyword>alter</nsKeywords:keyword>
+        <nsKeywords:keyword>and</nsKeywords:keyword>
+        <nsKeywords:keyword>any</nsKeywords:keyword>
+        <nsKeywords:keyword>as</nsKeywords:keyword>
+        <nsKeywords:keyword>asc</nsKeywords:keyword>
+        <nsKeywords:keyword>at</nsKeywords:keyword>
+        <nsKeywords:keyword>authorization</nsKeywords:keyword>
+        <nsKeywords:keyword>avg</nsKeywords:keyword>
+        <nsKeywords:keyword>begin</nsKeywords:keyword>
+        <nsKeywords:keyword>between</nsKeywords:keyword>
+        <nsKeywords:keyword>bigint</nsKeywords:keyword>
+        <nsKeywords:keyword>binary</nsKeywords:keyword>
+        <nsKeywords:keyword>bit</nsKeywords:keyword>
+        <nsKeywords:keyword>by</nsKeywords:keyword>
+        <nsKeywords:keyword>cascade</nsKeywords:keyword>
+        <nsKeywords:keyword>case</nsKeywords:keyword>
+        <nsKeywords:keyword>cast</nsKeywords:keyword>
+        <nsKeywords:keyword>char</nsKeywords:keyword>
+        <nsKeywords:keyword>character</nsKeywords:keyword>
+        <nsKeywords:keyword>check</nsKeywords:keyword>
+        <nsKeywords:keyword>checkpoint</nsKeywords:keyword>
+        <nsKeywords:keyword>close</nsKeywords:keyword>
+        <nsKeywords:keyword>coalesce</nsKeywords:keyword>
+        <nsKeywords:keyword>collate</nsKeywords:keyword>
+        <nsKeywords:keyword>column</nsKeywords:keyword>
+        <nsKeywords:keyword>commit</nsKeywords:keyword>
+        <nsKeywords:keyword>committed</nsKeywords:keyword>
+        <nsKeywords:keyword>connect</nsKeywords:keyword>
+        <nsKeywords:keyword>connection</nsKeywords:keyword>
+        <nsKeywords:keyword>constraint</nsKeywords:keyword>
+        <nsKeywords:keyword>contains</nsKeywords:keyword>
+        <nsKeywords:keyword>continue</nsKeywords:keyword>
+        <nsKeywords:keyword>convert</nsKeywords:keyword>
+        <nsKeywords:keyword>count</nsKeywords:keyword>
+        <nsKeywords:keyword>create</nsKeywords:keyword>
+        <nsKeywords:keyword>cross</nsKeywords:keyword>
+        <nsKeywords:keyword>cube</nsKeywords:keyword>
+        <nsKeywords:keyword>current</nsKeywords:keyword>
+        <nsKeywords:keyword>current_date</nsKeywords:keyword>
+        <nsKeywords:keyword>current_time</nsKeywords:keyword>
+        <nsKeywords:keyword>current_timestamp</nsKeywords:keyword>
+        <nsKeywords:keyword>current_user</nsKeywords:keyword>
+        <nsKeywords:keyword>cursor</nsKeywords:keyword>
+        <nsKeywords:keyword>database</nsKeywords:keyword>
+        <nsKeywords:keyword>date</nsKeywords:keyword>
+        <nsKeywords:keyword>day</nsKeywords:keyword>
+        <nsKeywords:keyword>deallocate</nsKeywords:keyword>
+        <nsKeywords:keyword>dec</nsKeywords:keyword>
+        <nsKeywords:keyword>decimal</nsKeywords:keyword>
+        <nsKeywords:keyword>declare</nsKeywords:keyword>
+        <nsKeywords:keyword>default</nsKeywords:keyword>
+        <nsKeywords:keyword>delete</nsKeywords:keyword>
+        <nsKeywords:keyword>desc</nsKeywords:keyword>
+        <nsKeywords:keyword>distinct</nsKeywords:keyword>
+        <nsKeywords:keyword>double</nsKeywords:keyword>
+        <nsKeywords:keyword>drop</nsKeywords:keyword>
+        <nsKeywords:keyword>dynamic</nsKeywords:keyword>
+        <nsKeywords:keyword>else</nsKeywords:keyword>
+        <nsKeywords:keyword>end</nsKeywords:keyword>
+        <nsKeywords:keyword>end-exec</nsKeywords:keyword>
+        <nsKeywords:keyword>escape</nsKeywords:keyword>
+        <nsKeywords:keyword>except</nsKeywords:keyword>
+        <nsKeywords:keyword>exec</nsKeywords:keyword>
+        <nsKeywords:keyword>execute</nsKeywords:keyword>
+        <nsKeywords:keyword>false</nsKeywords:keyword>
+        <nsKeywords:keyword>fetch</nsKeywords:keyword>
+        <nsKeywords:keyword>first</nsKeywords:keyword>
+        <nsKeywords:keyword>float</nsKeywords:keyword>
+        <nsKeywords:keyword>for</nsKeywords:keyword>
+        <nsKeywords:keyword>force</nsKeywords:keyword>
+        <nsKeywords:keyword>foreign</nsKeywords:keyword>
+        <nsKeywords:keyword>forward</nsKeywords:keyword>
+        <nsKeywords:keyword>free</nsKeywords:keyword>
+        <nsKeywords:keyword>from</nsKeywords:keyword>
+        <nsKeywords:keyword>full</nsKeywords:keyword>
+        <nsKeywords:keyword>function</nsKeywords:keyword>
+        <nsKeywords:keyword>global</nsKeywords:keyword>
+        <nsKeywords:keyword>goto</nsKeywords:keyword>
+        <nsKeywords:keyword>grant</nsKeywords:keyword>
+        <nsKeywords:keyword>group</nsKeywords:keyword>
+        <nsKeywords:keyword>grouping</nsKeywords:keyword>
+        <nsKeywords:keyword>having</nsKeywords:keyword>
+        <nsKeywords:keyword>hour</nsKeywords:keyword>
+        <nsKeywords:keyword>ignore</nsKeywords:keyword>
+        <nsKeywords:keyword>in</nsKeywords:keyword>
+        <nsKeywords:keyword>index</nsKeywords:keyword>
+        <nsKeywords:keyword>inner</nsKeywords:keyword>
+        <nsKeywords:keyword>insensitive</nsKeywords:keyword>
+        <nsKeywords:keyword>insert</nsKeywords:keyword>
+        <nsKeywords:keyword>instead</nsKeywords:keyword>
+        <nsKeywords:keyword>int</nsKeywords:keyword>
+        <nsKeywords:keyword>integer</nsKeywords:keyword>
+        <nsKeywords:keyword>intersect</nsKeywords:keyword>
+        <nsKeywords:keyword>into</nsKeywords:keyword>
+        <nsKeywords:keyword>is</nsKeywords:keyword>
+        <nsKeywords:keyword>isnull</nsKeywords:keyword>
+        <nsKeywords:keyword>isolation</nsKeywords:keyword>
+        <nsKeywords:keyword>join</nsKeywords:keyword>
+        <nsKeywords:keyword>key</nsKeywords:keyword>
+        <nsKeywords:keyword>last</nsKeywords:keyword>
+        <nsKeywords:keyword>left</nsKeywords:keyword>
+        <nsKeywords:keyword>level</nsKeywords:keyword>
+        <nsKeywords:keyword>like</nsKeywords:keyword>
+        <nsKeywords:keyword>load</nsKeywords:keyword>
+        <nsKeywords:keyword>local</nsKeywords:keyword>
+        <nsKeywords:keyword>lower</nsKeywords:keyword>
+        <nsKeywords:keyword>max</nsKeywords:keyword>
+        <nsKeywords:keyword>min</nsKeywords:keyword>
+        <nsKeywords:keyword>minute</nsKeywords:keyword>
+        <nsKeywords:keyword>modify</nsKeywords:keyword>
+        <nsKeywords:keyword>month</nsKeywords:keyword>
+        <nsKeywords:keyword>move</nsKeywords:keyword>
+        <nsKeywords:keyword>name</nsKeywords:keyword>
+        <nsKeywords:keyword>national</nsKeywords:keyword>
+        <nsKeywords:keyword>nchar</nsKeywords:keyword>
+        <nsKeywords:keyword>next</nsKeywords:keyword>
+        <nsKeywords:keyword>no</nsKeywords:keyword>
+        <nsKeywords:keyword>not</nsKeywords:keyword>
+        <nsKeywords:keyword>null</nsKeywords:keyword>
+        <nsKeywords:keyword>nullif</nsKeywords:keyword>
+        <nsKeywords:keyword>numeric</nsKeywords:keyword>
+        <nsKeywords:keyword>of</nsKeywords:keyword>
+        <nsKeywords:keyword>off</nsKeywords:keyword>
+        <nsKeywords:keyword>on</nsKeywords:keyword>
+        <nsKeywords:keyword>only</nsKeywords:keyword>
+        <nsKeywords:keyword>open</nsKeywords:keyword>
+        <nsKeywords:keyword>option</nsKeywords:keyword>
+        <nsKeywords:keyword>or</nsKeywords:keyword>
+        <nsKeywords:keyword>order</nsKeywords:keyword>
+        <nsKeywords:keyword>out</nsKeywords:keyword>
+        <nsKeywords:keyword>outer</nsKeywords:keyword>
+        <nsKeywords:keyword>output</nsKeywords:keyword>
+        <nsKeywords:keyword>partial</nsKeywords:keyword>
+        <nsKeywords:keyword>password</nsKeywords:keyword>
+        <nsKeywords:keyword>precision</nsKeywords:keyword>
+        <nsKeywords:keyword>prepare</nsKeywords:keyword>
+        <nsKeywords:keyword>primary</nsKeywords:keyword>
+        <nsKeywords:keyword>prior</nsKeywords:keyword>
+        <nsKeywords:keyword>privileges</nsKeywords:keyword>
+        <nsKeywords:keyword>procedure</nsKeywords:keyword>
+        <nsKeywords:keyword>public</nsKeywords:keyword>
+        <nsKeywords:keyword>read</nsKeywords:keyword>
+        <nsKeywords:keyword>real</nsKeywords:keyword>
+        <nsKeywords:keyword>references</nsKeywords:keyword>
+        <nsKeywords:keyword>relative</nsKeywords:keyword>
+        <nsKeywords:keyword>repeatable</nsKeywords:keyword>
+        <nsKeywords:keyword>replace</nsKeywords:keyword>
+        <nsKeywords:keyword>restrict</nsKeywords:keyword>
+        <nsKeywords:keyword>return</nsKeywords:keyword>
+        <nsKeywords:keyword>returns</nsKeywords:keyword>
+        <nsKeywords:keyword>revoke</nsKeywords:keyword>
+        <nsKeywords:keyword>right</nsKeywords:keyword>
+        <nsKeywords:keyword>rollback</nsKeywords:keyword>
+        <nsKeywords:keyword>rollup</nsKeywords:keyword>
+        <nsKeywords:keyword>rows</nsKeywords:keyword>
+        <nsKeywords:keyword>rule</nsKeywords:keyword>
+        <nsKeywords:keyword>schema</nsKeywords:keyword>
+        <nsKeywords:keyword>scroll</nsKeywords:keyword>
+        <nsKeywords:keyword>second</nsKeywords:keyword>
+        <nsKeywords:keyword>section</nsKeywords:keyword>
+        <nsKeywords:keyword>select</nsKeywords:keyword>
+        <nsKeywords:keyword>sequence</nsKeywords:keyword>
+        <nsKeywords:keyword>serializable</nsKeywords:keyword>
+        <nsKeywords:keyword>session_user</nsKeywords:keyword>
+        <nsKeywords:keyword>set</nsKeywords:keyword>
+        <nsKeywords:keyword>size</nsKeywords:keyword>
+        <nsKeywords:keyword>smallint</nsKeywords:keyword>
+        <nsKeywords:keyword>some</nsKeywords:keyword>
+        <nsKeywords:keyword>space</nsKeywords:keyword>
+        <nsKeywords:keyword>static</nsKeywords:keyword>
+        <nsKeywords:keyword>statistics</nsKeywords:keyword>
+        <nsKeywords:keyword>substring</nsKeywords:keyword>
+        <nsKeywords:keyword>sum</nsKeywords:keyword>
+        <nsKeywords:keyword>system_user</nsKeywords:keyword>
+        <nsKeywords:keyword>table</nsKeywords:keyword>
+        <nsKeywords:keyword>temp</nsKeywords:keyword>
+        <nsKeywords:keyword>temporary</nsKeywords:keyword>
+        <nsKeywords:keyword>then</nsKeywords:keyword>
+        <nsKeywords:keyword>time</nsKeywords:keyword>
+        <nsKeywords:keyword>timestamp</nsKeywords:keyword>
+        <nsKeywords:keyword>to</nsKeywords:keyword>
+        <nsKeywords:keyword>top</nsKeywords:keyword>
+        <nsKeywords:keyword>transaction</nsKeywords:keyword>
+        <nsKeywords:keyword>translation</nsKeywords:keyword>
+        <nsKeywords:keyword>trigger</nsKeywords:keyword>
+        <nsKeywords:keyword>true</nsKeywords:keyword>
+        <nsKeywords:keyword>truncate</nsKeywords:keyword>
+        <nsKeywords:keyword>uncommitted</nsKeywords:keyword>
+        <nsKeywords:keyword>union</nsKeywords:keyword>
+        <nsKeywords:keyword>unique</nsKeywords:keyword>
+        <nsKeywords:keyword>update</nsKeywords:keyword>
+        <nsKeywords:keyword>upper</nsKeywords:keyword>
+        <nsKeywords:keyword>user</nsKeywords:keyword>
+        <nsKeywords:keyword>values</nsKeywords:keyword>
+        <nsKeywords:keyword>varchar</nsKeywords:keyword>
+        <nsKeywords:keyword>varying</nsKeywords:keyword>
+        <nsKeywords:keyword>view</nsKeywords:keyword>
+        <nsKeywords:keyword>when</nsKeywords:keyword>
+        <nsKeywords:keyword>where</nsKeywords:keyword>
+        <nsKeywords:keyword>with</nsKeywords:keyword>
+        <nsKeywords:keyword>work</nsKeywords:keyword>
+        <nsKeywords:keyword>year</nsKeywords:keyword>
+    </nsKeywords:SQL>
+</nsKeywords:lenguajes>
