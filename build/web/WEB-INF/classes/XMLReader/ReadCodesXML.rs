@@ -1,2 +1,0 @@
-XMLReader.ReadCodesXML
-XMLReader.OrdenaCode
